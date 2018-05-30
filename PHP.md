@@ -8,3 +8,7 @@
 
 ## 型
 戻り値の型宣言を使用する場合はstrictモードにしておく https://qiita.com/itosho/items/f7d1b3ab41bce6503b52
+
+## CI
+* PHPUnit
+* 静的解析 `php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
