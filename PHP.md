@@ -12,3 +12,8 @@
 ## CI
 * PHPUnit
 * 静的解析 `php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
+
+## クラス名の文字列を取得するときは`::class`を使う
+* エラーを検知できる
+* リファクタリングしやすい
+* namespaceが長い場合にすっきりする http://suzuki.tdiary.net/20140312.html
