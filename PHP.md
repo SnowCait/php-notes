@@ -11,8 +11,12 @@
 戻り値の型宣言を使用する場合はstrictモードにしておく https://qiita.com/itosho/items/f7d1b3ab41bce6503b52
 
 ## CI
+### テスト
 * PHPUnit
-* 静的解析 `php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
+* Codeception
+
+### 静的解析
+`php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
 
 ## クラス名の文字列を取得するときは`::class`を使う
 * エラーを検知できる
