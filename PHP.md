@@ -14,6 +14,7 @@
 ### テスト
 * PHPUnit
 * Codeception
+* PHPSpec
 
 ### 静的解析
 `php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
