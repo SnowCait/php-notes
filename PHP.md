@@ -16,6 +16,9 @@
 ## 定数
 * グローバルな `define` よりスコープの小さいクラス定数を使う
 
+## 乱数
+* [mt_rand](http://php.net/manual/ja/migration71.incompatible.php#migration71.incompatible.fixes-to-mt_rand-algorithm) を使う
+
 ## 可読性
 * `extract` はライブラリ以外では使わない方がいい
 * `exec_shell` はなるべく使わない
