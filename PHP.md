@@ -36,3 +36,7 @@
 * エラーを検知できる
 * リファクタリングしやすい
 * namespaceが長い場合にすっきりする http://suzuki.tdiary.net/20140312.html
+
+## 非同期
+* [PHPの非同期処理ライブラリを漁ってみた](https://qiita.com/niisan-tokyo/items/cb717fee8066a0fa5f4f)
+* [PHPで作る非同期処理 - Speaker Deck](https://speakerdeck.com/niisantokyo/phpdezuo-rufei-tong-qi-chu-li)
