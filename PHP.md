@@ -23,6 +23,11 @@
 * `extract` はライブラリ以外では使わない方がいい
 * `exec_shell` はなるべく使わない
 
+## foreach
+* 値は基本的に参照渡しにしない（ループ内で変更を加えるように見えてしまう）
+* ループを抜けた後の `unset` は行わない
+  * 参照渡しをするときは `unset` しておく https://qiita.com/ttskch/items/c6d8ea00c57640c52cd8
+
 ## CI
 ### テスト
 * PHPUnit
