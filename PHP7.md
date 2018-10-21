@@ -15,3 +15,4 @@
 * https://tech.pepabo.com/2017/06/21/goope-php71-upgrade/
 * http://www.utakata.work/entry/20180101/1514811599
 * http://arakaze.ready.jp/archives/5158
+* http://algo13.net/php/tips/static-analysis.html
