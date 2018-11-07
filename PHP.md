@@ -20,7 +20,7 @@
 * [mt_rand](http://php.net/manual/ja/migration71.incompatible.php#migration71.incompatible.fixes-to-mt_rand-algorithm) を使う
 
 ## 可読性
-* `extract` はライブラリ以外では使わない方がいい
+* `extract` や `compact` はライブラリやフレームワークの内部以外では使わない
 * `exec_shell` はなるべく使わない
 
 ## foreach
