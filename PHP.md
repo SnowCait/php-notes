@@ -53,3 +53,6 @@
 * [PHPの非同期処理ライブラリを漁ってみた](https://qiita.com/niisan-tokyo/items/cb717fee8066a0fa5f4f)
 * [PHPで作る非同期処理 - Speaker Deck](https://speakerdeck.com/niisantokyo/phpdezuo-rufei-tong-qi-chu-li)
 * [php - PHPの非同期処理は、Ajaxと何が違うのでしょうか？ - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/30724/php%E3%81%AE%E9%9D%9E%E5%90%8C%E6%9C%9F%E5%87%A6%E7%90%86%E3%81%AF-ajax%E3%81%A8%E4%BD%95%E3%81%8C%E9%81%95%E3%81%86%E3%81%AE%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B)
+
+## DAO
+* DAO を作成するときにテーブル定義から interface/trait をコード生成して適用すると便利かも？
