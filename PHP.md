@@ -11,7 +11,7 @@
 * Guzzle
 
 ## 型
-戻り値の型宣言を使用する場合はstrictモードにしておく https://qiita.com/itosho/items/f7d1b3ab41bce6503b52
+引数や戻り値の型宣言を使用する場合はstrictモードにしておく https://qiita.com/itosho/items/f7d1b3ab41bce6503b52
 
 ## 引数
 * 引数の個数が多くなる場合はメソッドの機能が多すぎないか検討する
