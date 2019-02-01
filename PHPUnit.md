@@ -11,3 +11,6 @@
 
 ## カバレッジ
 * [PHP でカバレッジを出すなら phpdbg](https://qiita.com/nanasess/items/f5f8483e92c76ef408ff)
+
+## コマンドラインオプション
+* `--stop-on-error`
