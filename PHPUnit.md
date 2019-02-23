@@ -15,3 +15,7 @@
 
 ## コマンドラインオプション
 * `--stop-on-error`
+
+
+## IDE
+* composer で phpunit ディレクトリが複数存在する場合は assert の補完が効かなくなるので必要なもの以外 exclude しておく
