@@ -5,3 +5,6 @@
 
 ## IDE の assert 補完
 - https://github.com/4jean/ci-phpunit-code-completion
+
+## コーディング規約
+- `system/core/` はフレームワーク本体なので編集禁止
