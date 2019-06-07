@@ -64,3 +64,6 @@
 
 ## DAO
 * DAO を作成するときにテーブル定義から interface/trait をコード生成して適用すると便利かも？
+
+## Memcache
+* 中身が `false` の場合があるので `$memcached->getResultCode()` を使って判定する
