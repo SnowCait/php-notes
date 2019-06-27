@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 /**
  * @param string $needle_ip
  * @param string[] $ranges
