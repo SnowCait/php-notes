@@ -2,6 +2,7 @@
 /**
  * @param string $needle_ip
  * @param string[] $ranges
+ * @return bool
  */
 function in_ip_address_range(string $needle_ip, array $ranges): bool
 {
