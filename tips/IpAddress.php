@@ -10,6 +10,11 @@ function in_ip_address_range(string $needle_ip, array $ranges): bool
 {
     foreach ($ranges as $range)
     {
+        if (strpos($range, '/') === false)
+        {
+            $range .= '/32';
+        }
+        
         [$haystack_ip, $mask] = explode('/', $range);  // [PHP < 7] list($accept_ip, $mask) = 
         $haystack_long = ip2long($haystack_ip) >> (32 - $mask);
         $needle_long = ip2long($needle_ip) >> (32 - $mask);
