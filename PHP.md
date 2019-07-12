@@ -34,6 +34,7 @@
 * `exec_shell` はなるべく使わない
 * リフレクションは使わない。使う場合は PHPDoc に `@use`, `@used-by` を書いておく。
 * リファクタリングしづらくなるのでなんでもかんでも配列にしない。なるべくオブジェクトで扱う。
+* 定義/使用箇所にジャンプできるように PHPDoc を定義する `@property`, `@use`, `@used-by` などの活用
 
 ## foreach
 * 値は基本的に参照渡しにしない（ループ内で変更を加えるように見えてしまう）
@@ -67,3 +68,6 @@
 
 ## Memcache
 * 中身が `false` の場合があるので `$memcached->getResultCode()` を使って判定する
+
+## IDE
+* PhpStorm, IntelliJ IDEA, NetBeans あたりがおすすめ
