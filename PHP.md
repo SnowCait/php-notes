@@ -8,7 +8,10 @@
 * `if (ENVIRONMENT == 'production')`のようなコードが散見されるが、フレームワークのconfigに定義すべき。
 
 ## HTTP リクエスト
-* Guzzle
+* [Guzzle](https://github.com/guzzle/guzzle)
+* [file_get_contents](https://www.php.net/manual/ja/function.file-get-contents.php)
+* [cURL 関数](https://www.php.net/manual/ja/ref.curl.php)
+* [シリアライズ可能なcURLのラッパークラス](https://qiita.com/mpyw/items/c65fb4ec4cef80909a47)
 
 ## 型
 引数や戻り値の型宣言を使用する場合はstrictモードにしておく https://qiita.com/itosho/items/f7d1b3ab41bce6503b52
