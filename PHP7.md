@@ -16,3 +16,11 @@
 * http://www.utakata.work/entry/20180101/1514811599
 * http://arakaze.ready.jp/archives/5158
 * http://algo13.net/php/tips/static-analysis.html
+
+## エラー
+
+### メソッドのオーバーライド
+```shell
+Warning: Declaration of ChildClass::someMethod() should be compatible with ParentClass::someMethod($parameter) in /path/to/ChildClass.php on line 12
+```
+引数を合わせないといけない。
