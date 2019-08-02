@@ -74,3 +74,6 @@
 
 ## IDE
 * PhpStorm, IntelliJ IDEA, NetBeans あたりがおすすめ
+
+## php.ini
+display_errors - .php では `error_reporting`
