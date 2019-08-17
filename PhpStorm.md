@@ -8,3 +8,7 @@ IDEA に PHP プラグイン入れても大体同じ。
 
 ## Settings
 - CodeIgniter 等 .php ファイルでログ出力される場合は `logs` ディレクトリ右クリックして `Mark Directory as` から `Excluded` しておくと検索に引っかからなくなる
+
+## PHPUnit
+- [PhpStorm + Docker for Mac（docker-compose）での PHPUnit と Remote Debug の設定](https://blog.shin1x1.com/entry/setup-test-and-debug-on-phpstorm-and-docker-for-mac)
+- [PhpStorm + Docker for Windowsを試す](http://igatea.hatenablog.com/entry/2017/12/12/164951)
