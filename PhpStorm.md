@@ -1,6 +1,7 @@
 # PhpStorm
 IntelliJ の PhpStorm 関連。
-IDEA に PHP プラグイン入れても大体同じ。
+IDEA に PHP プラグイン入れても大体同じ。  
+[公式ドキュメント](https://pleiades.io/help/phpstorm/quick-start-guide-phpstorm.html)
 
 ## Plugins
 - [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig)
