@@ -77,3 +77,6 @@
 
 ## php.ini
 display_errors - .php では `error_reporting`
+
+## yield
+- [ジェネレータ関数のDocコメントのreturnタグは何と書けばよいか](https://qiita.com/nyoro_712/items/6ad2b8c41a24ee2475f2)
