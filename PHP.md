@@ -23,6 +23,9 @@
     * 不明瞭になる
     * 変更を検知できなくなる
 
+## オブジェクトと参照
+* [PHP: オブジェクトと参照 - Manual](https://www.php.net/manual/ja/language.oop5.references.php)
+
 ## 例外
 * 投げ直すときは `$previous` を設定する。
 
