@@ -19,6 +19,9 @@
 
 ## エラー
 
+### エラーハンドリング
+* [PHP: PHP 7 でのエラー - Manual](https://www.php.net/manual/ja/language.errors.php7.php)
+
 ### メソッドのオーバーライド
 ```shell
 Warning: Declaration of ChildClass::someMethod() should be compatible with ParentClass::someMethod($parameter) in /path/to/ChildClass.php on line 12
