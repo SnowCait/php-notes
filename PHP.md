@@ -28,6 +28,7 @@
 
 ## 例外
 * 投げ直すときは `$previous` を設定する。
+* [PHPにおける例外クラスの設計考察: Architect Note](http://blog.tojiru.net/article/455279557.html)
 
 ## 定数
 * グローバルな `define` よりスコープの小さいクラス定数を使う
