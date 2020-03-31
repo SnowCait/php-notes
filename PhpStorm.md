@@ -13,3 +13,6 @@ IDEA に PHP プラグイン入れても大体同じ。
 ## PHPUnit
 - [PhpStorm + Docker for Mac（docker-compose）での PHPUnit と Remote Debug の設定](https://blog.shin1x1.com/entry/setup-test-and-debug-on-phpstorm-and-docker-for-mac)
 - [PhpStorm + Docker for Windowsを試す](http://igatea.hatenablog.com/entry/2017/12/12/164951)
+
+## Tips
+- [IntelliJ IDEAでキャッシュをインデックスを再構築する - blog.beaglesoft.net](https://blog.beaglesoft.net/entry/%3Fp=429)
