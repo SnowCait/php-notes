@@ -84,3 +84,6 @@ display_errors - .php では `error_reporting`
 
 ## yield
 - [ジェネレータ関数のDocコメントのreturnタグは何と書けばよいか](https://qiita.com/nyoro_712/items/6ad2b8c41a24ee2475f2)
+
+## パフォーマンス
+- [配列の要素確認と実行速度 - アシアルブログ](https://blog.asial.co.jp/760)
