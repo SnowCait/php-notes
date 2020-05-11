@@ -26,8 +26,6 @@ class Refactoring {
 			throw new Exception('Open tag is invalid.');
 		}
 
-		var_dump($this->tokens[0], $this->tokens[1], $this->tokens[2], $this->tokens[3], $this->tokens[4]);
-
 		while (in_array(next($this->tokens)[0], [T_WHITESPACE, T_COMMENT, T_DOC_COMMENT])) {
 			// nop
 		}
