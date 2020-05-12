@@ -76,9 +76,6 @@
 ## Memcache
 * 中身が `false` の場合があるので `$memcached->getResultCode()` を使って判定する
 
-## IDE
-* PhpStorm, IntelliJ IDEA, NetBeans あたりがおすすめ
-
 ## php.ini
 display_errors - .php では `error_reporting`
 
