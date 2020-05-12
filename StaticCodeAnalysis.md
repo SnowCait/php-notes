@@ -2,7 +2,7 @@
 
 ## ツール
 ### 自動修正あり
-- [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [PHP Coding Standards Fixer [FriendsOfPHP/PHP-CS-Fixer]](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 
 ### 自動修正なし
 
