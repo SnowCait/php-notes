@@ -57,6 +57,9 @@
 * Codeception
 * PHPSpec
 
+#### Tips
+* [PHPの自動テストフレームワークってどんなんがあるん？ - Qiita](https://qiita.com/geckothic/items/adeb3eddb4131ebff2cf)
+
 ### 静的解析
 `php -l`, `phpcs`, `phpmd`, etc http://algo13.net/php/tips/static-analysis.html
 
