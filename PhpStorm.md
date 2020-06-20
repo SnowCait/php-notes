@@ -16,3 +16,4 @@ IDEA に PHP プラグイン入れても大体同じ。
 
 ## Tips
 - [IntelliJ IDEAでキャッシュをインデックスを再構築する - blog.beaglesoft.net](https://blog.beaglesoft.net/entry/%3Fp=429)
+- [git addすらせずにファイルを消してしまったときにPhpStormで復元する方法 - Qiita](https://qiita.com//wim/items/f7cb92d3513dcd0d0dda)
