@@ -1,6 +1,7 @@
 # PHP 8
 - [New in PHP 8 - stitcher.io](https://stitcher.io/blog/new-in-php-8)
 - [【PHP8.0】PHP8で警告のエラーレベルが軒並み厳しくなる - Qiita](https://qiita.com/rana_kualu/items/2d71a88aab59b35cdcb8)
+- [【PHP8】PHP Deprecated: PHP Startup: Use of mbstring.internal_encoding is deprecated - Qiita](https://qiita.com/KEINOS/items/594899e1ee25cb003059)
 
 ## JIT
 - [【PHP8.0】PHPでJITが使えるようになる - Qiita](https://qiita.com/rana_kualu/items/ba312d2789bd228f887a)
