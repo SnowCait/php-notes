@@ -5,3 +5,4 @@
 ## JIT
 - [【PHP8.0】PHPでJITが使えるようになる - Qiita](https://qiita.com/rana_kualu/items/ba312d2789bd228f887a)
 - [PHP8.0.0α1がリリースされたのでさっそくJITの威力を体感する(した) - Qiita](https://qiita.com/rana_kualu/items/73c346b3feadfa3a5b21)
+- [【PHP8】JIT=on の Docker を作ってみた。触ってみたら爆速だったよ。 - Qiita](https://qiita.com/KEINOS/items/ca0f130c48e407fc5790)
