@@ -1,5 +1,6 @@
 # PHP 8
 - [New in PHP 8 - stitcher.io](https://stitcher.io/blog/new-in-php-8)
+- [【PHP8.0】PHP8で警告のエラーレベルが軒並み厳しくなる - Qiita](https://qiita.com/rana_kualu/items/2d71a88aab59b35cdcb8)
 
 ## JIT
 - [【PHP8.0】PHPでJITが使えるようになる - Qiita](https://qiita.com/rana_kualu/items/ba312d2789bd228f887a)
