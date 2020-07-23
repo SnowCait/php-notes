@@ -91,3 +91,6 @@ display_errors - .php では `error_reporting`
 ## PHP-FPM
 - [PHP: インストールにあたっての一般的な注意事項 - Manual](https://www.php.net/manual/ja/install.general.php)
 - [nginx と PHP-FPM の仕組みをちゃんと理解しながら PHP の実行環境を構築する - Qiita](https://qiita.com/kotarella1110/items/634f6fafeb33ae0f51dc)
+
+## ホスティングサービス
+- [Host PHP Apps | Amezmo](https://www.amezmo.com/)
