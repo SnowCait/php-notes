@@ -78,6 +78,7 @@
 ## LINQ
 * [Ginq](https://qiita.com/rana_kualu/items/2022739d8559272640bc)
 * [PHPLinq](https://qiita.com/rana_kualu/items/5f358536b2b7d269a96a) 微妙
+* [LINQライブラリまとめ - Qiita](https://qiita.com/nskydiving/items/203363b60a3539c1bd0b)
 
 ## DAO
 * DAO を作成するときにテーブル定義から interface/trait をコード生成して適用すると便利かも？
