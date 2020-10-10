@@ -1,7 +1,9 @@
 # PHP
 
 ## 基本
-[Composer](https://getcomposer.org/)を使う https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94
+* [Composer](https://getcomposer.org/)
+  * [PHP開発でComposerを使わないなんてありえない！基礎編 - Qiita](https://qiita.com/niisan-tokyo/items/8cccec88d45f38171c94)
+* [PHP: PHP 型の比較表 - Manual](https://www.php.net/manual/ja/types.comparisons.php)
 
 ## 環境指定
 * `define('ENVIRONMENT', 'develop');`をバージョン管理外の.phpファイルに用意するよりはapacheの環境変数で指定するのがベター。
