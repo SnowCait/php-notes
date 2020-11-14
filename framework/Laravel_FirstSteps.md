@@ -160,3 +160,11 @@ Please run "npm install && npm run dev" to compile your fresh scaffolding.
 Authentication scaffolding generated successfully.
 $ npm install && npm run dev
 ```
+
+### Twitter
+
+[Laravel Socialite - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs/8.x/socialite)
+
+```shell
+$ composer require laravel/socialite
+```
