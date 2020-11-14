@@ -62,10 +62,19 @@ $ cd fleet/
 
 ```shell
 $ php artisan serve --host=localhost --port=8888
+Laravel development server started: http://localhost:8888
+[Sun Nov 15 02:09:02 2020] ::1:51612 [200]: /favicon.ico
 ```
 
 ### テスト
 
 ```shell
-$ ./vendor/bin/phpunit
+$ ./vendor/bin/phpunit 
+PHPUnit 8.5.9 by Sebastian Bergmann and contributors.
+
+..                                                                  2 / 2 (100%)
+
+Time: 706 ms, Memory: 16.00 MB
+
+OK (2 tests, 2 assertions)
 ```
