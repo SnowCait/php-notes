@@ -158,4 +158,5 @@ $ php artisan ui vue --auth
 Vue scaffolding installed successfully.
 Please run "npm install && npm run dev" to compile your fresh scaffolding.
 Authentication scaffolding generated successfully.
+$ npm install && npm run dev
 ```
