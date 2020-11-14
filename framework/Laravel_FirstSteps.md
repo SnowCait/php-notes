@@ -4,7 +4,7 @@
 
 ### Composer を最新にする
 
-```bash
+```shell
 $ composer --version
 Composer version 1.6.3 2018-01-31 16:28:17
 $ composer self-update
@@ -17,7 +17,7 @@ Composer version 2.0.7 2020-11-13 17:31:06
 
 ### Laravel
 
-```bash
+```shell
 $ composer create-project --prefer-dist laravel/laravel fleet
 Creating a "laravel/laravel" project at "./fleet"
 Installing laravel/laravel (v6.18.35)
@@ -58,8 +58,14 @@ $ cd fleet/
 
 ## 実行
 
+### ローカルサーバー
+
+```shell
+$ php artisan serve --host=localhost --port=8888
+```
+
 ### テスト
 
-```bash
+```shell
 $ ./vendor/bin/phpunit
 ```
