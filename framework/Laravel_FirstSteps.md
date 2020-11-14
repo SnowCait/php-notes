@@ -119,7 +119,7 @@ $ mysql -uroot fleet -e "show tables"
 
 ## ログイン機能
 
-### laravel/ui
+### Laravel UI
 
 ```shell
 $ composer require laravel/ui
@@ -151,4 +151,11 @@ Discovered Package: nunomaduro/collision
 Package manifest generated successfully.
 41 packages you are using are looking for funding.
 Use the `composer fund` command to find out more!
+```
+
+```shell
+$ php artisan ui vue --auth
+Vue scaffolding installed successfully.
+Please run "npm install && npm run dev" to compile your fresh scaffolding.
+Authentication scaffolding generated successfully.
 ```
