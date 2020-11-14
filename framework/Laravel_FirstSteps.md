@@ -61,9 +61,9 @@ $ cd fleet/
 ### ローカルサーバー
 
 ```shell
-$ php artisan serve --host=localhost --port=8888
-Laravel development server started: http://localhost:8888
-[Sun Nov 15 02:09:02 2020] ::1:51612 [200]: /favicon.ico
+$ php artisan serve
+Laravel development server started: http://127.0.0.1:8000
+[Sun Nov 15 05:18:32 2020] 127.0.0.1:53142 [200]: /favicon.ico
 ```
 
 ### テスト
@@ -115,4 +115,40 @@ $ mysql -uroot fleet -e "show tables"
 | password_resets |
 | users           |
 +-----------------+
+```
+
+## ログイン機能
+
+### laravel/ui
+
+```shell
+$ composer require laravel/ui
+Using version ^1.3 for laravel/ui
+./composer.json has been updated
+Running composer update laravel/ui
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 1 install, 0 updates, 0 removals
+  - Locking laravel/ui (v1.3.0)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Downloading laravel/ui (v1.3.0)
+  - Installing laravel/ui (v1.3.0): Extracting archive
+Package fzaninotto/faker is abandoned, you should avoid using it. No replacement was suggested.
+Package jakub-onderka/php-console-color is abandoned, you should avoid using it. Use php-parallel-lint/php-console-color instead.
+Package jakub-onderka/php-console-highlighter is abandoned, you should avoid using it. Use php-parallel-lint/php-console-highlighter instead.
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: laravel/tinker
+Discovered Package: laravel/ui
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Package manifest generated successfully.
+41 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
 ```
