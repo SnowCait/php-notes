@@ -8,3 +8,7 @@
 - [PHP8.0.0α1がリリースされたのでさっそくJITの威力を体感する(した) - Qiita](https://qiita.com/rana_kualu/items/73c346b3feadfa3a5b21)
 - [【PHP8】JIT=on の Docker を作ってみた。触ってみたら爆速だったよ。 - Qiita](https://qiita.com/KEINOS/items/ca0f130c48e407fc5790)
 - [php8 JIT vs いろんな言語 - Qiita](https://qiita.com/okeita0805/items/1fe602c76645f1f4f4e7)
+
+## Build
+- [PHP 8 をビルドする](https://zenn.dev/memory/articles/43e0e2fb0c525a4aa025)
+- [ソースコード（php-src）からPHPをビルドする流れと仕組みを手を動かしながら理解する](https://zenn.dev/hgsgtk/articles/fb9af8bfc64ec37bce2d)
