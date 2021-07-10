@@ -12,3 +12,6 @@
 ## Build
 - [PHP 8 をビルドする](https://zenn.dev/memory/articles/43e0e2fb0c525a4aa025)
 - [ソースコード（php-src）からPHPをビルドする流れと仕組みを手を動かしながら理解する](https://zenn.dev/hgsgtk/articles/fb9af8bfc64ec37bce2d)
+
+## Migration
+- [rectorphp/rector: Instant Upgrades and Automated Refactoring of any PHP 5.3+ code](https://github.com/rectorphp/rector)
